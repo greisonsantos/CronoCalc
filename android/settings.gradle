@@ -1,0 +1,3 @@
+rootProject.name = 'CronoCalc'
+
+include ':app'
